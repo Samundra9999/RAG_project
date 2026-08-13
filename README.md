@@ -17,3 +17,15 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload a
 ## Project Architecture
 ![alt text](genai.drawio.png)
 
+## Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Samundra9999/AI-Notes-Assistant.git
+cd AI-Notes-Assistant
+
+
+### 2. Create Virtual Environment
+```bash
+uv venv
+```
