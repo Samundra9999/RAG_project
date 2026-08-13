@@ -51,7 +51,11 @@ pip install -r requirements.txt
 Create a .env file in the project root:
 ```bash
 GROQ_API_KEY=your_groq_api_key
-```  
+```
+or
+```bash
+gemini_API_KEY=your_gemini_api_key
+``` 
 ## Running the Application
 ```bash
 streamlit run main.py
