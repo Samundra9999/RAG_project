@@ -43,3 +43,16 @@ source .venv/bin/activate
 ```bash
 uv sync
 ```
+- OR using pip:
+```bash
+pip install -r requirements.txt
+```  
+## Environment Variables
+Create a .env file in the project root:
+```bash
+GROQ_API_KEY=your_groq_api_key
+```  
+## Running the Application
+```bash
+streamlit run main.py
+``` 
