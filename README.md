@@ -67,3 +67,9 @@ streamlit run main.py
 - Enter a question related to the document.
 - Click Submit.
 - The system retrieves relevant content and generates an answer using the LLM.
+
+## Author
+
+Samundra Bhandari
+
+Aspiring AI/ML and Data Science Engineer.
