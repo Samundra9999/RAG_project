@@ -1,4 +1,4 @@
-# AI Notes Assistant
+# AI RAG System
 
 A Retrieval-Augmented Generation (RAG) application that allows users to upload a PDF document and ask natural language questions about its content. The system combines semantic search, keyword search, and a Large Language Model (LLM) to provide accurate, context-aware answers grounded in the uploaded document.
 
@@ -59,7 +59,8 @@ gemini_API_KEY=your_gemini_api_key
 ## Running the Application
 ```bash
 streamlit run main.py
-``` 
+```
+
 ## Usage
 - Launch the Streamlit application.
 - Upload a PDF document.
