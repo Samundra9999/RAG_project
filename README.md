@@ -21,8 +21,8 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Samundra9999/AI-Notes-Assistant.git
-cd AI-Notes-Assistant
+git clone https://github.com/Samundra9999/RAG_project.git
+cd RAG_project
 ```
 
 ### 2. Create Virtual Environment
