@@ -29,3 +29,16 @@ cd RAG_project
 ```bash
 uv venv
 ```
+Activate environment:
+- Windows
+```bash
+.venv\Scripts\activate
+```
+- Mac/Linux
+```bash
+source .venv/bin/activate
+```
+### 3. Install Dependencies
+- Using UV:
+```bash
+uv sync
