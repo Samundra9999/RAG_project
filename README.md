@@ -15,5 +15,5 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload a
 - Environment variable support using `.env`
 
 ## Project Architecture
-
+![alt text](genai.drawio.png)
 
