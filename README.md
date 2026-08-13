@@ -42,3 +42,4 @@ source .venv/bin/activate
 - Using UV:
 ```bash
 uv sync
+```
