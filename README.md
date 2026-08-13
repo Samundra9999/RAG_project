@@ -23,7 +23,7 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload a
 ```bash
 git clone https://github.com/Samundra9999/AI-Notes-Assistant.git
 cd AI-Notes-Assistant
-
+```
 
 ### 2. Create Virtual Environment
 ```bash
