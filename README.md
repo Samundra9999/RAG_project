@@ -60,3 +60,9 @@ gemini_API_KEY=your_gemini_api_key
 ```bash
 streamlit run main.py
 ``` 
+## Usage
+- Launch the Streamlit application.
+- Upload a PDF document.
+- Enter a question related to the document.
+- Click Submit.
+- The system retrieves relevant content and generates an answer using the LLM.
