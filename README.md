@@ -16,4 +16,4 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload a
 
 ## Project Architecture
 
-![alt text](gsenai.drawio.png)
+
